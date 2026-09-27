@@ -20,13 +20,14 @@
 
 ## GitHub activity
 
-<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/es4er?style=flat-square&logo=github&label=Followers)](https://github.com/es4er?tab=followers)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fes4er&query=%24.public_repos&label=Public%20repositories&color=2563eb&style=flat-square)](https://github.com/es4er?tab=repositories)
+[![CS336 language](https://img.shields.io/github/languages/top/es4er/cs336-assignment1-basics?style=flat-square&label=CS336%20stack)](https://github.com/es4er/cs336-assignment1-basics)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=es4er&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=es4er&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+<p>
+  <a href="https://github.com/es4er/wms-agent-platform">wms-agent-platform</a> ·
+  <a href="https://github.com/es4er/cs336-assignment1-basics">cs336-assignment1-basics</a>
+</p>
 
 <!--
 使用说明：
