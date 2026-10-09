@@ -12,7 +12,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on interesting projects and continuously learning.
+- 🔭 I’m currently working on LLM and AI agent projects, and learning continuously.
 - 🌱 I’m interested in large language models and AI agents, and I share my learning through notes and projects.
 - 👯 I’m happy to collaborate with people who share the same interests.
 - 📫 Reach me at **meiyuxin7@gmail.com**.
