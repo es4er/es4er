@@ -13,7 +13,7 @@
 ## About me
 
 - 🔭 I’m currently working on interesting projects and continuously learning.
-- 🌱 I’m learning software engineering and artificial intelligence, and publishing my notes and projects.
+- 🌱 I’m interested in large language models and AI agents, and I share my learning through notes and projects.
 - 👯 I’m happy to collaborate with people who share the same interests.
 - 📫 Reach me at **meiyuxin7@gmail.com**.
 - 🌐 Visit my personal homepage: **[es4er.github.io](https://es4er.github.io/)**.
